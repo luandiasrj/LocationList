@@ -1,0 +1,738 @@
+UF,COD. UF,COD. MUNIC,NOME DO MUNICÍPIO, POPULAÇÃO ESTIMADA ,STATUS_PROCESSAMENTO
+SP,35,10609,Carapicuíba,398.462,⚠️
+SP,35,51009,São Vicente,338.407,⚠️
+SP,35,52809,Taboão da Serra,284.274,⚠️
+SP,35,15004,Embu das Artes,259.323,⚠️
+MG,31,57807,Santa Luzia,229.483,⚠️
+SP,35,43907,Rio Claro,208.857,⚠️
+SP,35,45803,Santa Bárbara d'Oeste,189.338,⚠️
+SP,35,25300,Jaú,137.323,⚠️
+MG,31,45208,Nova Serrana,112.910,⚠️
+SP,35,08504,Caçapava,99.678,⚠️
+MG,31,62500,São João del Rei,94.062,⚠️
+MT,51,05259,Lucas do Rio Verde,92.256,⚠️
+SP,35,09601,Campo Limpo Paulista,79.663,⚠️
+MG,31,71303,Viçosa,79.221,⚠️
+MG,31,64704,São Sebastião do Paraíso,74.742,⚠️
+SP,35,30300,Mirassol,65.485,⚠️
+SP,35,55000,Tupã,65.416,⚠️
+MT,51,06224,Nova Mutum,61.223,⚠️
+RN,24,00208,Açu,58.906,⚠️
+SP,35,56453,Vargem Grande Paulista,52.103,⚠️
+SP,35,31308,Monte Alto,48.725,⚠️
+SP,35,08405,Cabreúva,48.473,⚠️
+PI,22,03701,Esperantina,42.510,⚠️
+MG,31,57005,Salinas,41.641,⚠️
+MG,31,07109,Boa Esperança,41.332,⚠️
+SP,35,15186,Espírito Santo do Pinhal,40.681,⚠️
+MG,31,40704,Mateus Leme,40.239,⚠️
+SP,35,50407,São Pedro,39.725,⚠️
+MG,31,35050,Jaíba,39.379,⚠️
+SP,35,40200,Pontal,38.376,⚠️
+CE,23,05902,Ipueiras,38.285,⚠️
+SP,35,05302,Barra Bonita,35.159,⚠️
+PA,15,00859,Anapu,34.947,⚠️
+MA,21,02002,Bom Jardim,34.035,⚠️
+SP,35,01707,Américo Brasiliense,33.757,⚠️
+MG,31,28006,Guanhães,33.434,⚠️
+MG,31,46008,Ouro Fino,33.227,⚠️
+SP,35,50209,São Miguel Arcanjo,32.904,⚠️
+SP,35,08603,Cachoeira Paulista,32.482,⚠️
+MG,31,52006,Pompéu,32.305,⚠️
+MG,31,57203,Santa Bárbara,31.756,⚠️
+MG,31,16605,Cláudio,31.665,⚠️
+MA,21,02200,Buriti,30.799,⚠️
+SP,35,06607,Biritiba Mirim,30.526,⚠️
+MG,31,69356,Três Marias,29.927,⚠️
+MG,31,60405,Santo Antônio do Monte,28.358,⚠️
+MG,31,62955,São José da Lapa,27.710,⚠️
+MT,51,06257,Nova Xavantina,25.486,⚠️
+MG,31,48707,Pedra Azul,24.999,⚠️
+MG,31,54002,Raul Soares,23.882,⚠️
+SP,35,10302,Capela do Alto,23.597,⚠️
+MG,31,67103,Serro,22.550,⚠️
+SP,35,02754,Araçariguama,22.168,⚠️
+MG,31,49903,Perdões,21.991,⚠️
+MG,31,15508,Caxambu,21.436,⚠️
+MG,31,22009,Divino,21.329,⚠️
+MG,31,24005,Ervália,20.951,⚠️
+SP,35,27405,Lucélia,20.372,⚠️
+MG,31,67608,Simonésia,20.339,⚠️
+SP,35,15152,Engenheiro Coelho,20.139,⚠️
+MG,31,31208,Ipanema,20.095,⚠️
+MT,51,08600,Vila Rica,19.827,⚠️
+SP,35,11607,Cesário Lange,19.588,⚠️
+PA,15,06161,Rio Maria,19.129,⚠️
+PA,15,01576,Bom Jesus do Tocantins,18.958,⚠️
+SP,35,12001,Colina,18.842,⚠️
+MG,31,04908,Baependi,18.768,⚠️
+SP,35,32405,Nazaré Paulista,18.620,⚠️
+BA,29,31202,Taperoá,18.571,⚠️
+MG,31,14501,Carmópolis de Minas,18.498,⚠️
+SP,35,47700,Santo Anastácio,18.045,⚠️
+SP,35,01152,Alumínio,17.591,⚠️
+MA,21,04404,Gonçalves Dias,17.579,⚠️
+MG,31,57906,Santa Margarida,16.903,⚠️
+MG,31,45109,Nova Resende,16.854,⚠️
+MG,31,51701,Poço Fundo,16.791,⚠️
+MG,31,57708,Santa Juliana,16.568,⚠️
+MG,31,40159,Mário Campos,16.546,⚠️
+MG,31,47600,Passa Quatro,15.842,⚠️
+MG,31,20805,Cruzília,15.779,⚠️
+MG,31,33105,Itanhandu,15.684,⚠️
+MG,31,62807,São João Evangelista,15.617,⚠️
+SP,35,38204,Pinhalzinho,15.605,⚠️
+MG,31,08552,Brasilândia de Minas,15.432,⚠️
+SP,35,45001,Salesópolis,15.396,⚠️
+MG,31,33006,Itamonte,15.193,⚠️
+MG,31,55504,Rio Paranaíba,15.143,⚠️
+MG,31,23908,Entre Rios de Minas,15.120,⚠️
+MG,31,45000,Nova Ponte,15.113,⚠️
+MG,31,27008,Fronteira,14.909,⚠️
+SP,35,36307,Patrocínio Paulista,14.837,⚠️
+MA,21,03752,Davinópolis,14.788,⚠️
+SP,35,51900,Severínia,14.724,⚠️
+MT,51,07305,São José do Rio Claro,14.662,⚠️
+MG,31,10301,Caldas,14.588,⚠️
+MG,31,39904,Maria da Fé,14.557,⚠️
+SP,35,56107,Valentim Gentil,14.531,⚠️
+MG,31,08909,Brazópolis,14.506,⚠️
+CE,23,06009,Iracema,14.411,⚠️
+MG,31,12703,Capitão Enéas,14.401,⚠️
+MT,51,07859,São Félix do Araguaia,14.332,⚠️
+MG,31,00302,Abre Campo,14.312,⚠️
+MG,31,23700,Engenheiro Caldas,14.308,⚠️
+MG,31,25705,Felixlândia,14.279,⚠️
+MG,31,12000,Candeias,14.236,⚠️
+MG,31,42700,Montalvânia,14.160,⚠️
+MT,51,06158,Nova Bandeirantes,14.160,⚠️
+MG,31,14105,Carmo de Minas,14.114,⚠️
+MG,31,27800,Grão Mogol,14.091,⚠️
+MG,31,04700,Ataléia,13.967,⚠️
+SP,35,20426,Ilha Comprida,13.955,⚠️
+MG,31,62450,São João das Missões,13.467,⚠️
+MG,31,43005,Monte Belo,13.340,⚠️
+MG,31,33600,Itapeva,13.332,⚠️
+MG,31,07901,Bom Repouso,13.183,⚠️
+MG,31,30507,Ilicínea,13.171,⚠️
+SP,35,14809,Eldorado,13.162,⚠️
+SP,35,11300,Cedral,13.160,⚠️
+MG,31,11507,Campos Altos,13.136,⚠️
+MG,31,37403,Lagoa Dourada,13.116,⚠️
+SP,35,51405,Serra Azul,13.058,⚠️
+SP,35,51801,Sete Barras,12.912,⚠️
+MG,31,56007,Rio Vermelho,12.815,⚠️
+MG,31,16159,Chapada Gaúcha,12.810,⚠️
+MG,31,17702,Conceição do Rio Verde,12.780,⚠️
+MG,31,68507,Teixeiras,12.634,⚠️
+MG,31,10707,Cambuquira,12.560,⚠️
+MG,31,00609,Água Boa,12.545,⚠️
+SP,35,27603,Luís Antônio,12.531,⚠️
+MT,51,06778,Porto Alegre do Norte,12.524,⚠️
+MG,31,61908,São Gonçalo do Rio Abaixo,12.353,⚠️
+MG,31,09709,Cachoeira de Minas,12.248,⚠️
+MG,31,66808,Serra do Salitre,12.210,⚠️
+MG,31,61809,São Gonçalo do Pará,12.192,⚠️
+MG,31,02803,Andrelândia,12.169,⚠️
+MT,51,06240,Nova Ubiratã,12.108,⚠️
+MT,51,06299,Paranaíta,11.989,⚠️
+MG,31,70008,Ubaí,11.977,⚠️
+MG,31,51305,Piraúba,11.958,⚠️
+SP,35,48609,São Bento do Sapucaí,11.948,⚠️
+MG,31,53608,Prudente de Morais,11.940,⚠️
+MG,31,71600,Virgem da Lapa,11.867,⚠️
+MG,31,24500,Estiva,11.836,⚠️
+MG,31,09907,Caetanópolis,11.832,⚠️
+MG,31,13909,Carmo da Cachoeira,11.776,⚠️
+AL,27,06109,Ouro Branco,11.699,⚠️
+SP,35,35002,Palestina,11.689,⚠️
+MT,51,06109,Nossa Senhora do Livramento,11.658,⚠️
+SP,35,44905,Sales Oliveira,11.654,⚠️
+MG,31,11309,Campo do Meio,11.624,⚠️
+MG,31,62559,São João do Manhuaçu,11.614,⚠️
+SP,35,57303,Estiva Gerbi,11.566,⚠️
+MG,31,27602,Gouveia,11.549,⚠️
+SP,35,37206,Pedro de Toledo,11.539,⚠️
+MG,31,54200,Resende Costa,11.520,⚠️
+SP,35,06805,Bocaina,11.467,⚠️
+SP,35,17208,Guaiçara,11.459,⚠️
+MG,31,09501,Cabo Verde,11.396,⚠️
+SP,35,29807,Mineiros do Tietê,11.349,⚠️
+MG,31,02902,Antônio Carlos,11.345,⚠️
+SP,35,13900,Divinolândia,11.314,⚠️
+MG,31,14006,Carmo da Mata,11.279,⚠️
+MG,31,17801,Conceição dos Ouros,11.183,⚠️
+MG,31,34707,Jacinto,11.169,⚠️
+MG,31,12505,Capim Branco,11.105,⚠️
+MS,50,01243,Aral Moreira,11.085,⚠️
+MG,31,52170,Ponto dos Volantes,11.077,⚠️
+MG,31,24906,Eugenópolis,11.075,⚠️
+MG,31,02100,Alto Rio Doce,10.994,⚠️
+MG,31,30051,Icaraí de Minas,10.912,⚠️
+MG,31,70503,Urucânia,10.875,⚠️
+MG,31,12802,Capitólio,10.863,⚠️
+BA,29,28505,Santa Terezinha,10.847,⚠️
+MG,31,52303,Porto Firme,10.825,⚠️
+SP,35,56354,Vargem,10.805,⚠️
+MG,31,11804,Canápolis,10.755,⚠️
+MG,31,58003,Santa Maria de Itabira,10.716,⚠️
+BA,29,29800,Saúde,10.715,⚠️
+PI,22,06720,Nazária,10.706,⚠️
+MG,31,17108,Conceição da Aparecida,10.668,⚠️
+MG,31,66204,Senhora dos Remédios,10.640,⚠️
+BA,29,27903,Santa Inês,10.628,⚠️
+MG,31,54804,Rio Acima,10.626,⚠️
+PB,25,15401,São Vicente do Seridó,10.620,⚠️
+MG,31,49150,Pedras de Maria da Cruz,10.619,⚠️
+MG,31,22454,Divisópolis,10.585,⚠️
+SP,35,17901,Guaraci,10.542,⚠️
+MG,31,36504,Jordânia,10.536,⚠️
+MG,31,71808,Virginópolis,10.519,⚠️
+MG,31,61502,São Geraldo,10.517,⚠️
+MG,31,45356,Novo Oriente de Minas,10.501,⚠️
+SP,35,50001,São Luiz do Paraitinga,10.497,⚠️
+MG,31,08255,Bonito de Minas,10.491,⚠️
+SP,35,50803,São Sebastião da Grama,10.484,⚠️
+SP,35,44202,Riolândia,10.453,⚠️
+MT,51,07180,Ribeirão Cascalheira,10.431,⚠️
+MG,31,06002,Bela Vista de Minas,10.412,⚠️
+MG,31,60306,Santo Antônio do Jacinto,10.397,⚠️
+MG,31,23007,Dores de Campos,10.313,⚠️
+SP,35,56602,Vera Cruz,10.294,⚠️
+SP,35,03604,Areiópolis,10.257,⚠️
+MG,31,64506,São Sebastião do Maranhão,10.244,⚠️
+SP,35,04909,Bananal,10.109,⚠️
+MG,31,16100,Chapada do Norte,10.024,⚠️
+MG,31,28204,Guaraciaba,9.921,⚠️
+SP,35,32504,Neves Paulista,9.921,⚠️
+SP,35,26506,Lavínia,9.909,⚠️
+SP,35,14601,Dumont,9.719,⚠️
+SP,35,35101,Palmares Paulista,9.709,⚠️
+MG,31,25903,Ferros,9.666,⚠️
+SP,35,15202,Estrela d'Oeste,9.655,⚠️
+MS,50,00906,Antônio João,9.641,⚠️
+MG,31,03900,Araújos,9.556,⚠️
+SP,35,13207,Cristais Paulista,9.543,⚠️
+SP,35,32900,Nova Europa,9.459,⚠️
+MG,31,40555,Mata Verde,9.458,⚠️
+MG,31,03009,Antônio Dias,9.388,⚠️
+MG,31,43500,Morada Nova de Minas,9.364,⚠️
+SP,35,43808,Rinópolis,9.357,⚠️
+MG,31,64605,São Sebastião do Oeste,9.355,⚠️
+MG,31,02704,Cachoeira de Pajeú,9.333,⚠️
+SP,35,19006,Herculândia,9.302,⚠️
+MG,31,31505,Ipuiúna,9.299,⚠️
+MG,31,58904,Santana do Manhuaçu,9.236,⚠️
+MG,31,09204,Buenópolis,9.229,⚠️
+SP,35,45407,Salto Grande,9.212,⚠️
+MG,31,37536,Lagoa Grande,9.210,⚠️
+SP,35,43709,Rincão,9.145,⚠️
+MG,31,71709,Virgínia,9.142,⚠️
+MG,31,38625,Limeira do Oeste,9.087,⚠️
+SP,35,35200,Palmeira d'Oeste,8.994,⚠️
+MG,31,40852,Matias Cardoso,8.975,⚠️
+SP,35,55802,Urânia,8.973,⚠️
+MG,31,38658,Lontra,8.968,⚠️
+MG,31,06408,Belo Vale,8.946,⚠️
+MG,31,54507,Riacho dos Machados,8.886,⚠️
+MG,31,50158,Piedade de Caratinga,8.883,⚠️
+SP,35,31209,Monte Alegre do Sul,8.873,⚠️
+MG,31,11408,Campo Florido,8.838,⚠️
+RN,24,05306,Januário Cicco,8.836,⚠️
+MG,31,28907,Guimarânia,8.808,⚠️
+MG,31,50505,Pimenta,8.794,⚠️
+MG,31,48301,Paula Cândido,8.786,⚠️
+MG,31,21209,Delfinópolis,8.760,⚠️
+MG,31,45877,Orizânia,8.759,⚠️
+MG,31,57252,Santa Bárbara do Leste,8.737,⚠️
+MG,31,40530,Martins Soares,8.725,⚠️
+MG,31,47709,Passa Tempo,8.696,⚠️
+SP,35,32827,Nova Campina,8.631,⚠️
+MG,31,53509,Alto Jequitibá,8.596,⚠️
+MG,31,59209,Santa Rita de Caldas,8.588,⚠️
+SP,35,48054,Santo Antônio do Aracanguá,8.568,⚠️
+MG,31,52907,Pratápolis,8.551,⚠️
+MG,31,42601,Monsenhor Paulo,8.550,⚠️
+MT,51,08956,Nova Monte Verde,8.451,⚠️
+MT,51,04526,Ipiranga do Norte,8.409,⚠️
+SP,35,45159,Saltinho,8.371,⚠️
+MG,31,26901,Frei Inocêncio,8.334,⚠️
+SP,35,56909,Vista Alegre do Alto,8.327,⚠️
+MG,31,57336,Santa Cruz de Minas,8.321,⚠️
+MG,31,19500,Coronel Murta,8.283,⚠️
+MG,31,03702,Araponga,8.218,⚠️
+SP,35,36406,Paulicéia,8.200,⚠️
+SP,35,14304,Dourado,8.186,⚠️
+MG,31,48509,Pavão,8.168,⚠️
+MG,31,21100,Delfim Moreira,8.130,⚠️
+MG,31,26208,Formoso,8.103,⚠️
+MG,31,62948,São José da Barra,8.084,⚠️
+PE,26,02506,Brejinho,8.010,⚠️
+SP,35,19808,Icém,7.969,⚠️
+MG,31,65701,Senador Firmino,7.945,⚠️
+SP,35,15350,Euclides da Cunha Paulista,7.928,⚠️
+MG,31,62203,São João Batista do Glória,7.912,⚠️
+SP,35,34807,Ouro Verde,7.901,⚠️
+MG,31,21407,Desterro de Entre Rios,7.900,⚠️
+SP,35,24501,Jaci,7.878,⚠️
+MG,31,02852,Angelândia,7.860,⚠️
+MG,31,43807,Munhoz,7.857,⚠️
+SP,35,42503,Reginópolis,7.808,⚠️
+MG,31,28402,Guarani,7.780,⚠️
+MT,51,07776,Santa Terezinha,7.720,⚠️
+SP,35,49508,São José da Bela Vista,7.690,⚠️
+MG,31,08107,Bonfim,7.672,⚠️
+MG,31,34806,Jacuí,7.663,⚠️
+SP,35,03703,Ariranha,7.653,⚠️
+MG,31,20870,Curral de Dentro,7.630,⚠️
+SP,35,43253,Ribeirão Grande,7.570,⚠️
+MG,31,48756,Pedra Bonita,7.559,⚠️
+MG,31,69109,Toledo,7.541,⚠️
+MG,31,61700,São Gonçalo do Abaeté,7.521,⚠️
+SP,35,17802,Guaraçaí,7.486,⚠️
+SP,35,00402,Águas da Prata,7.470,⚠️
+SP,35,36604,Paulo de Faria,7.430,⚠️
+MG,31,31604,Iraí de Minas,7.423,⚠️
+MG,31,17836,Cônego Marinho,7.420,⚠️
+SP,35,00550,Águas de Santa Bárbara,7.407,⚠️
+MG,31,64308,São Roque de Minas,7.341,⚠️
+SP,35,50506,São Pedro do Turvo,7.333,⚠️
+SP,35,48203,Santo Antônio do Pinhal,7.294,⚠️
+MG,31,16506,Claro dos Poções,7.259,⚠️
+MG,31,70750,Varjão de Minas,7.243,⚠️
+MG,31,50570,Pintópolis,7.231,⚠️
+MG,31,26505,Francisco Badaró,7.208,⚠️
+MG,31,30556,Imbé de Minas,7.208,⚠️
+MG,31,64001,São Pedro dos Ferros,7.194,⚠️
+MG,31,01631,Alfredo Vasconcelos,7.184,⚠️
+SP,35,46900,Santa Lúcia,7.181,⚠️
+MT,51,06281,Novo São Joaquim,7.160,⚠️
+SP,35,27009,Lindóia,7.147,⚠️
+MG,31,62609,São João do Oriente,7.139,⚠️
+SP,35,32306,Natividade da Serra,7.134,⚠️
+MG,31,65206,São Tomé das Letras,7.089,⚠️
+MG,31,58508,Santana de Pirapama,7.079,⚠️
+SP,35,54904,Três Fronteiras,7.013,⚠️
+MG,31,24401,Espírito Santo do Dourado,7.007,⚠️
+SP,35,21101,Ipeúna,6.999,⚠️
+PB,25,11608,Pilões,6.979,⚠️
+MG,31,07505,Bom Jardim de Minas,6.968,⚠️
+MG,31,59357,Santa Rita de Minas,6.952,⚠️
+MG,31,66709,Serra dos Aimorés,6.936,⚠️
+MG,31,65305,São Vicente de Minas,6.935,⚠️
+MG,31,24807,Estrela do Sul,6.926,⚠️
+SP,35,05401,Barra do Turvo,6.922,⚠️
+SP,35,47908,Santo Antônio da Alegria,6.917,⚠️
+MG,31,54457,Riachinho,6.890,⚠️
+MG,31,18205,Conquista,6.864,⚠️
+SP,35,32801,Nova Aliança,6.858,⚠️
+MG,31,65107,São Tomás de Aquino,6.853,⚠️
+MG,31,09451,Cabeceira Grande,6.797,⚠️
+MG,31,21803,Dionísio,6.789,⚠️
+SP,35,12100,Colômbia,6.781,⚠️
+MG,31,58300,Santana da Vargem,6.781,⚠️
+MG,31,45059,Nova Porteirinha,6.780,⚠️
+MG,31,52600,Pouso Alto,6.755,⚠️
+MG,31,60454,Santo Antônio do Retiro,6.743,⚠️
+SP,35,53203,Taiúva,6.733,⚠️
+SP,35,36802,Pedra Bela,6.718,⚠️
+MG,31,64407,São Sebastião da Bela Vista,6.694,⚠️
+MG,31,28600,Guarda-Mor,6.684,⚠️
+SP,35,44806,Sales,6.612,⚠️
+MG,31,22207,Divinolândia de Minas,6.607,⚠️
+SP,35,24907,Jambeiro,6.575,⚠️
+SP,35,45704,Santa Albertina,6.543,⚠️
+SP,35,18107,Guarantã,6.531,⚠️
+MG,31,22355,Divisa Alegre,6.513,⚠️
+SP,35,42701,Restinga,6.492,⚠️
+MG,31,65404,Sapucaí-Mirim,6.462,⚠️
+MG,31,65578,Senador Amaral,6.458,⚠️
+MG,31,31000,Inhaúma,6.435,⚠️
+SP,35,16606,Gália,6.435,⚠️
+MG,31,63805,São Miguel do Anta,6.430,⚠️
+MG,31,23809,Engenheiro Navarro,6.411,⚠️
+MG,31,64472,São Sebastião do Anta,6.386,⚠️
+MG,31,46750,Palmópolis,6.373,⚠️
+MG,31,00104,Abadia dos Dourados,6.365,⚠️
+MG,31,67400,Silvianópolis,6.336,⚠️
+MG,31,38682,Luislândia,6.329,⚠️
+MG,31,19955,Córrego Fundo,6.310,⚠️
+MG,31,30705,Indianópolis,6.309,⚠️
+MG,31,63508,São José do Jacuri,6.298,⚠️
+SP,35,24204,Jaborandi,6.293,⚠️
+MG,31,61205,São Francisco de Paula,6.293,⚠️
+MG,31,27305,Galiléia,6.281,⚠️
+SP,35,46504,Santa Ernestina,6.256,⚠️
+MG,31,15706,Central de Minas,6.243,⚠️
+MG,31,22900,Dona Euzébia,6.241,⚠️
+SP,35,35705,Paraíso,6.211,⚠️
+SE,28,02205,Feira Nova,6.207,⚠️
+SP,35,34104,Oriente,6.180,⚠️
+MT,51,07354,São José do Xingu,6.168,⚠️
+MG,31,57104,Salto da Divisa,6.164,⚠️
+MG,31,05301,Bandeira do Sul,6.146,⚠️
+SP,35,34203,Orindiúva,6.145,⚠️
+MG,31,35456,Jenipapo de Minas,6.124,⚠️
+MG,31,36603,Nova União,6.083,⚠️
+SP,35,09452,Campina do Monte Alegre,6.077,⚠️
+SP,35,15608,Fernando Prestes,6.066,⚠️
+MG,31,57658,Santa Helena de Minas,6.059,⚠️
+MG,31,38005,Laranjal,6.042,⚠️
+MG,31,22405,Divisa Nova,5.993,⚠️
+MG,31,02050,Alto Caparaó,5.982,⚠️
+SP,35,01806,Américo de Campos,5.975,⚠️
+MG,31,59506,Santa Rita do Itueto,5.973,⚠️
+MT,51,06000,Nortelândia,5.935,⚠️
+MG,31,36959,Juvenília,5.929,⚠️
+MG,31,46206,Ouro Verde de Minas,5.858,⚠️
+MG,31,61304,São Francisco de Sales,5.857,⚠️
+MG,31,70578,Vargem Alegre,5.834,⚠️
+MG,31,60959,São Domingos das Dores,5.778,⚠️
+MS,50,06275,Paraíso das Águas,5.777,⚠️
+MT,51,08907,Nova Maringá,5.775,⚠️
+MG,31,07703,Bom Jesus do Amparo,5.775,⚠️
+MG,31,50703,Pirajuba,5.762,⚠️
+MG,31,46701,Palma,5.742,⚠️
+MG,31,26802,Frei Gaspar,5.741,⚠️
+MG,31,05707,Barra Longa,5.740,⚠️
+MG,31,48202,Patrocínio do Muriaé,5.735,⚠️
+MG,31,67806,Soledade de Minas,5.733,⚠️
+MG,31,55306,Rio Manso,5.727,⚠️
+MT,51,06802,Porto dos Gaúchos,5.690,⚠️
+MG,31,15359,Catas Altas,5.668,⚠️
+SP,35,05104,Barbosa,5.659,⚠️
+MG,31,41504,Mendes Pimentel,5.651,⚠️
+MG,31,46552,Pai Pedro,5.634,⚠️
+MG,31,20607,Crucilândia,5.633,⚠️
+MG,31,08206,Bonfinópolis de Minas,5.615,⚠️
+MG,31,16308,Cipotânea,5.599,⚠️
+MG,31,66006,Senhora de Oliveira,5.584,⚠️
+MG,31,59001,Santana do Riacho,5.579,⚠️
+MG,31,17603,Conceição do Pará,5.567,⚠️
+MG,31,45455,Olhos-d'Água,5.520,⚠️
+MG,31,07208,Bocaina de Minas,5.508,⚠️
+MG,31,63409,São José do Goiabal,5.492,⚠️
+MG,31,55207,Rio Espera,5.479,⚠️
+MG,31,62575,São João do Manteninha,5.468,⚠️
+SP,35,07704,Braúna,5.466,⚠️
+MG,31,10103,Caiana,5.463,⚠️
+MG,31,11903,Cana Verde,5.356,⚠️
+MG,31,22702,Dom Silvério,5.350,⚠️
+MG,31,39102,Madre de Deus de Minas,5.341,⚠️
+SP,35,47007,Santa Maria da Serra,5.314,⚠️
+MG,31,20151,Crisólita,5.296,⚠️
+MG,31,35902,Jesuânia,5.296,⚠️
+MG,31,23858,Entre Folhas,5.293,⚠️
+MG,31,27503,Gonzaga,5.271,⚠️
+SP,35,05351,Barra do Chapéu,5.256,⚠️
+MG,31,25408,Felício dos Santos,5.248,⚠️
+SP,35,41059,Pratânia,5.246,⚠️
+MG,31,55900,Rio Preto,5.240,⚠️
+SP,35,26308,Lagoinha,5.182,⚠️
+MG,31,50406,Piedade dos Gerais,5.175,⚠️
+MG,31,67707,Sobrália,5.175,⚠️
+MG,31,64100,São Pedro do Suaçuí,5.166,⚠️
+MG,31,20300,Cristália,5.165,⚠️
+MG,31,23304,Dores do Turvo,5.159,⚠️
+MG,31,23106,Dores de Guanhães,5.121,⚠️
+MG,31,56106,Ritápolis,5.115,⚠️
+MG,31,46255,Padre Carvalho,5.085,⚠️
+MG,31,69802,Turvolândia,5.078,⚠️
+MG,31,45851,Oratórios,5.076,⚠️
+MG,31,26752,Franciscópolis,5.062,⚠️
+MG,31,21308,Descoberto,5.058,⚠️
+MG,31,22603,Dom Joaquim,5.051,⚠️
+MG,31,41702,Mesquita,5.038,⚠️
+MG,31,71154,Vermelho Novo,5.034,⚠️
+MG,31,05509,Barão de Monte Alto,4.991,⚠️
+SP,35,09809,Campos Novos Paulista,4.991,⚠️
+MG,31,22504,Dom Cavati,4.981,⚠️
+MG,31,63904,São Pedro da União,4.979,⚠️
+MG,31,62252,São João da Lagoa,4.950,⚠️
+MG,31,18106,Congonhas do Norte,4.927,⚠️
+GO,52,20157,São Luiz do Norte,4.926,⚠️
+SP,35,34005,Onda Verde,4.912,⚠️
+SP,35,01400,Álvaro de Carvalho,4.896,⚠️
+MG,31,56452,Rosário da Limeira,4.896,⚠️
+MG,31,27404,Gonçalves,4.891,⚠️
+MG,31,27206,Funilândia,4.886,⚠️
+MG,31,53103,Presidente Bernardes,4.883,⚠️
+MG,31,61403,São Francisco do Glória,4.866,⚠️
+MG,31,27339,Gameleiras,4.863,⚠️
+MG,31,50539,Pingo-d'Água,4.845,⚠️
+MG,31,59308,Santa Rita de Jacutinga,4.836,⚠️
+MG,31,60801,São Bento Abade,4.835,⚠️
+MG,31,11705,Canaã,4.832,⚠️
+SP,35,07308,Boracéia,4.823,⚠️
+MG,31,05202,Bandeira,4.821,⚠️
+RN,24,00604,Almino Afonso,4.806,⚠️
+MG,31,58102,Santa Maria do Salto,4.803,⚠️
+SP,35,16853,Gavião Peixoto,4.797,⚠️
+SP,35,33205,Nova Independência,4.795,⚠️
+SP,35,30409,Mirassolândia,4.771,⚠️
+SP,35,43204,Ribeirão do Sul,4.768,⚠️
+MG,31,40308,Marliéria,4.761,⚠️
+SP,35,27702,Luiziânia,4.751,⚠️
+MG,31,57401,Santa Cruz do Escalvado,4.743,⚠️
+MG,31,20409,Cristiano Otoni,4.735,⚠️
+MG,31,70651,Vargem Grande do Rio Pardo,4.727,⚠️
+SP,35,43105,Ribeirão Corrente,4.706,⚠️
+MG,31,50307,Piedade do Rio Grande,4.697,⚠️
+SP,35,02002,Analândia,4.684,⚠️
+MG,31,55108,Rio do Prado,4.679,⚠️
+MG,31,63102,São José da Varginha,4.677,⚠️
+MG,31,35308,Japaraíba,4.672,⚠️
+MG,31,12653,Capitão Andrade,4.650,⚠️
+MG,31,07604,Bom Jesus da Penha,4.642,⚠️
+SP,35,28700,Marabá Paulista,4.627,⚠️
+SP,35,42305,Redenção da Serra,4.611,⚠️
+MG,31,27073,Fruta de Leite,4.607,⚠️
+MG,31,02506,Amparo do Serra,4.595,⚠️
+MG,31,04809,Augusto de Lima,4.593,⚠️
+MG,31,26604,Francisco Dumont,4.564,⚠️
+SP,35,00808,Alfredo Marcondes,4.556,⚠️
+TO,17,20499,São Valério,4.547,⚠️
+MG,31,06606,Bertópolis,4.546,⚠️
+MG,31,71907,Virgolândia,4.530,⚠️
+MG,31,17405,Conceição de Ipanema,4.503,⚠️
+MG,31,66956,Serranópolis de Minas,4.496,⚠️
+MG,31,08800,Braúnas,4.475,⚠️
+MG,31,72103,Volta Grande,4.473,⚠️
+MT,51,06174,Nova Nazaré,4.467,⚠️
+SP,35,25607,João Ramalho,4.456,⚠️
+SP,35,39608,Planalto,4.454,⚠️
+MG,31,43153,Monte Formoso,4.449,⚠️
+MG,31,19906,Córrego do Bom Jesus,4.429,⚠️
+MG,31,21902,Divinésia,4.426,⚠️
+MG,31,12208,Capela Nova,4.416,⚠️
+MG,31,27057,Fronteira dos Vales,4.405,⚠️
+SP,35,22653,Itapirapuã Paulista,4.405,⚠️
+MG,31,38351,Leme do Prado,4.387,⚠️
+MG,31,68309,Taquaraçu de Minas,4.368,⚠️
+SP,35,46207,Santa Cruz da Conceição,4.365,⚠️
+SP,35,08306,Cabrália Paulista,4.362,⚠️
+MG,31,36553,José Raydan,4.352,⚠️
+MG,31,20102,Couto de Magalhães de Minas,4.346,⚠️
+MG,31,60108,Santo Antônio do Grama,4.342,⚠️
+MG,31,02407,Alvorada de Minas,4.322,⚠️
+MG,31,08701,Brás Pires,4.314,⚠️
+SP,35,25805,Júlio Mesquita,4.308,⚠️
+MG,31,36108,Joanésia,4.304,⚠️
+SP,35,31605,Monte Castelo,4.301,⚠️
+SP,35,12605,Coronel Macedo,4.295,⚠️
+SP,35,12704,Corumbataí,4.285,⚠️
+SP,35,18909,Guzolândia,4.276,⚠️
+MG,31,58805,Santana do Jacaré,4.265,⚠️
+MG,31,57302,Santa Bárbara do Tugúrio,4.262,⚠️
+MG,31,49606,Pequi,4.258,⚠️
+MG,31,63201,São José do Alegre,4.242,⚠️
+MG,31,48905,Pedra do Indaiá,4.232,⚠️
+PB,25,02706,Borborema,4.231,⚠️
+SP,35,15194,Espírito Santo do Turvo,4.217,⚠️
+MG,31,68101,Tapira,4.212,⚠️
+MT,51,07792,Santo Antônio do Leste,4.212,⚠️
+SP,35,31704,Monteiro Lobato,4.205,⚠️
+MG,31,54705,Ribeirão Vermelho,4.201,⚠️
+MG,31,27388,Goianá,4.190,⚠️
+SP,35,17109,Glicério,4.173,⚠️
+MG,31,09253,Bugre,4.149,⚠️
+MG,31,60900,São Brás do Suaçuí,4.133,⚠️
+PI,22,01804,Bocaina,4.131,⚠️
+SP,35,02606,Aparecida d'Oeste,4.124,⚠️
+MG,31,67905,Tabuleiro,4.098,⚠️
+MG,31,57500,Santa Efigênia de Minas,4.067,⚠️
+MG,31,50208,Piedade de Ponte Nova,4.056,⚠️
+MG,31,62658,São João do Pacuí,4.052,⚠️
+SP,35,28205,Macedônia,4.048,⚠️
+MG,31,41306,Medeiros,4.040,⚠️
+MG,31,12059,Cantagalo,4.039,⚠️
+MG,31,65909,Senador Modestino Gonçalves,4.035,⚠️
+SP,35,23008,Itapura,4.014,⚠️
+MG,31,42254,Miravânia,4.011,⚠️
+MG,31,36520,José Gonçalves de Minas,3.993,⚠️
+SP,35,16101,Florínea,3.987,⚠️
+MG,31,40605,Materlândia,3.982,⚠️
+MG,31,60207,Santo Antônio do Itambé,3.979,⚠️
+SP,35,01202,Álvares Florence,3.978,⚠️
+MG,31,25002,Ewbank da Câmara,3.977,⚠️
+SP,35,44509,Rubinéia,3.965,⚠️
+MG,31,57377,Santa Cruz de Salinas,3.944,⚠️
+SP,35,48401,Santópolis do Aguapeí,3.933,⚠️
+MG,31,69059,Tocos do Moji,3.899,⚠️
+SP,35,49607,São José do Barreiro,3.898,⚠️
+MG,31,36405,Joaquim Felício,3.891,⚠️
+SP,35,01103,Alto Alegre,3.883,⚠️
+MG,31,60009,Santo Antônio do Aventureiro,3.881,⚠️
+MG,31,63003,São José da Safira,3.861,⚠️
+MG,31,70438,União de Minas,3.848,⚠️
+SP,35,41109,Presidente Alves,3.841,⚠️
+MG,31,66501,Serra Azul de Minas,3.829,⚠️
+MG,31,31406,Ipiaçu,3.823,⚠️
+MG,31,58607,Santana do Deserto,3.819,⚠️
+MG,31,52131,Ponto Chique,3.807,⚠️
+MG,31,11150,Campo Azul,3.802,⚠️
+MG,31,09600,Cachoeira da Prata,3.781,⚠️
+MG,31,71402,Vieiras,3.780,⚠️
+MG,31,22470,Dom Bosco,3.767,⚠️
+SP,35,32108,Murutinga do Sul,3.763,⚠️
+MG,31,44904,Nova Módica,3.731,⚠️
+MG,31,32602,Itamarati de Minas,3.730,⚠️
+SP,35,22000,Itaju,3.702,⚠️
+MT,51,08857,Nova Marilândia,3.678,⚠️
+TO,17,08254,Tabocão,3.676,⚠️
+SP,35,20806,Inúbia Paulista,3.671,⚠️
+MG,31,44375,Natalândia,3.626,⚠️
+SP,35,05005,Barão de Antonina,3.618,⚠️
+MG,31,20706,Cruzeiro da Fortaleza,3.610,⚠️
+SP,35,07159,Bom Sucesso de Itararé,3.610,⚠️
+MG,31,36579,Josenópolis,3.607,⚠️
+MG,31,21704,Diogo de Vasconcelos,3.596,⚠️
+MG,31,15201,Conceição da Barra de Minas,3.596,⚠️
+MG,31,19708,Coronel Xavier Chaves,3.586,⚠️
+MG,31,58409,Santana de Cataguases,3.553,⚠️
+MG,31,57609,Santa Fé de Minas,3.551,⚠️
+SP,35,28908,Mariápolis,3.539,⚠️
+MG,31,40209,Maripá de Minas,3.532,⚠️
+MT,51,07578,Rondolândia,3.527,⚠️
+MG,31,59100,Santana dos Montes,3.507,⚠️
+MG,31,63300,São José do Divino,3.501,⚠️
+MG,31,53202,Presidente Juscelino,3.493,⚠️
+SP,35,22158,Itaoca,3.490,⚠️
+MG,31,26307,Fortaleza de Minas,3.485,⚠️
+MG,31,71105,Veríssimo,3.480,⚠️
+MG,31,59704,Santa Rosa da Serra,3.476,⚠️
+MG,31,26950,Frei Lagonegro,3.475,⚠️
+SP,35,52551,Suzanápolis,3.464,⚠️
+MT,51,07768,Santa Rita do Trivelato,3.463,⚠️
+MG,31,29905,Ibitiúra de Minas,3.439,⚠️
+MG,31,14709,Carvalhópolis,3.417,⚠️
+MG,31,49200,Pedrinópolis,3.404,⚠️
+MG,31,48806,Pedra do Anta,3.371,⚠️
+MG,31,70479,Uruana de Minas,3.360,⚠️
+MG,31,59407,Santa Rita de Ibitipoca,3.344,⚠️
+MT,51,06273,Novo Horizonte do Norte,3.307,⚠️
+MG,31,06101,Belmiro Braga,3.299,⚠️
+MG,31,40407,Marmelópolis,3.299,⚠️
+MG,31,37304,Lagoa dos Patos,3.285,⚠️
+MG,31,38302,Leandro Ferreira,3.270,⚠️
+MG,31,61601,São Geraldo da Piedade,3.258,⚠️
+MG,31,61056,São Félix de Minas,3.252,⚠️
+MG,31,19005,Cordislândia,3.247,⚠️
+MG,31,64431,São Sebastião da Vargem Alegre,3.219,⚠️
+MG,31,26406,Fortuna de Minas,3.207,⚠️
+SP,35,30003,Mira Estrela,3.199,⚠️
+MG,31,57278,Santa Bárbara do Monte Verde,3.199,⚠️
+SP,35,14924,Elisiário,3.189,⚠️
+SP,35,51306,Sebastianópolis do Sul,3.187,⚠️
+MG,31,15904,Chácara,3.177,⚠️
+MG,31,22801,Dom Viçoso,3.176,⚠️
+MG,31,61650,São Geraldo do Baixio,3.175,⚠️
+MG,31,43708,Morro do Pilar,3.174,⚠️
+SP,35,42800,Ribeira,3.166,⚠️
+MG,31,44672,Nova Belém,3.156,⚠️
+MG,31,53301,Presidente Kubitschek,3.154,⚠️
+MG,31,15409,Catas Altas da Noruega,3.141,⚠️
+MG,31,25507,São Gonçalo do Rio Preto,3.098,⚠️
+MG,31,66105,Senhora do Porto,3.088,⚠️
+MG,31,71501,Mathias Lobato,3.069,⚠️
+SP,35,48302,Santo Expedito,3.063,⚠️
+SP,35,15129,Emilianópolis,3.062,⚠️
+SP,35,39707,Platina,3.061,⚠️
+MG,31,67509,Simão Pereira,3.060,⚠️
+MG,31,21506,Desterro do Melo,3.059,⚠️
+MG,31,45802,Onça de Pitangui,3.027,⚠️
+SP,35,47106,Santa Mercedes,3.012,⚠️
+MG,31,62302,São João da Mata,3.000,⚠️
+MG,31,27354,Glaucilândia,2.991,⚠️
+MG,31,19807,Córrego Danta,2.978,⚠️
+MG,31,13107,Caranaíba,2.960,⚠️
+SP,35,10104,Cândido Rodrigues,2.951,⚠️
+SP,35,01509,Alvinlândia,2.923,⚠️
+MG,31,10806,Campanário,2.917,⚠️
+MG,31,20003,Córrego Novo,2.912,⚠️
+MG,31,49002,Pedra Dourada,2.883,⚠️
+SP,35,10906,Cássia dos Coqueiros,2.855,⚠️
+MG,31,50109,Piau,2.854,⚠️
+SP,35,36901,Pedranópolis,2.848,⚠️
+SP,35,33304,Nova Luzitânia,2.838,⚠️
+SP,35,37156,Pedrinhas Paulista,2.838,⚠️
+MG,31,17207,Conceição das Pedras,2.837,⚠️
+MG,31,63607,São José do Mantimento,2.834,⚠️
+MT,51,07743,Santa Cruz do Xingu,2.834,⚠️
+SP,35,00600,Águas de São Pedro,2.829,⚠️
+MG,31,25804,Fernandes Tourinho,2.825,⚠️
+MG,31,16902,Comendador Gomes,2.813,⚠️
+SP,35,16507,Gabriel Monteiro,2.811,⚠️
+MG,31,19609,Coronel Pacheco,2.799,⚠️
+SP,35,47403,Santa Rita d'Oeste,2.790,⚠️
+RS,43,14548,Pinto Bandeira,2.784,⚠️
+MG,31,15003,Cascalho Rico,2.757,⚠️
+MG,31,24708,Estrela do Indaiá,2.750,⚠️
+SP,35,15301,Estrela do Norte,2.749,⚠️
+MG,31,60603,Santo Hipólito,2.720,⚠️
+SP,35,27900,Lutécia,2.699,⚠️
+MG,31,13800,Carmésia,2.682,⚠️
+SP,35,46108,Santa Clara d'Oeste,2.677,⚠️
+SP,35,53658,Taquaral,2.652,⚠️
+SP,35,06201,Bento de Abreu,2.642,⚠️
+SP,35,49003,São Francisco,2.629,⚠️
+SP,35,49201,São João das Duas Pontes,2.622,⚠️
+MG,31,45505,Olímpio Noronha,2.616,⚠️
+SP,35,07753,Brejo Alegre,2.605,⚠️
+MG,31,55009,Rio Doce,2.542,⚠️
+MT,51,07263,Santo Afonso,2.460,⚠️
+MG,31,65560,Sem-Peixe,2.441,⚠️
+MG,31,43609,Morro da Garça,2.438,⚠️
+SP,35,27504,Lucianópolis,2.419,⚠️
+SP,35,40309,Pontes Gestal,2.415,⚠️
+MG,31,67301,Silveirânia,2.391,⚠️
+MG,31,72202,Wenceslau Braz,2.387,⚠️
+MG,31,64902,São Sebastião do Rio Verde,2.373,⚠️
+MG,31,56205,Rochedo de Minas,2.363,⚠️
+SP,35,14957,Embaúba,2.353,⚠️
+MG,31,09808,Cachoeira Dourada,2.346,⚠️
+MG,31,65602,Senador Cortes,2.319,⚠️
+MG,31,47808,Passa Vinte,2.301,⚠️
+SP,35,49300,São João do Pau d'Alho,2.288,⚠️
+MG,31,14907,Casa Grande,2.260,⚠️
+SP,35,14205,Dolcinópolis,2.250,⚠️
+MG,31,70602,Vargem Bonita,2.206,⚠️
+MG,31,24609,Estrela Dalva,2.204,⚠️
+SP,35,33106,Nova Guataporanga,2.188,⚠️
+MG,31,32800,Itambé do Mato Dentro,2.175,⚠️
+MG,31,58706,Santana do Garambéu,2.175,⚠️
+MG,31,00708,Água Comprida,2.165,⚠️
+SP,35,46256,Santa Cruz da Esperança,2.162,⚠️
+SP,35,36570,Paulistânia,2.146,⚠️
+MG,31,65800,Senador José Bento,2.137,⚠️
+SP,35,13306,Cruzália,2.129,⚠️
+SP,35,03356,Arco-Íris,2.085,⚠️
+SP,35,54656,Torre de Pedra,2.063,⚠️
+MG,31,45703,Oliveira Fortes,2.062,⚠️
+SP,35,32843,Nova Canaã Paulista,2.058,⚠️
+MT,51,06315,Novo Santo Antônio,2.040,⚠️
+SP,35,18008,Guarani d'Oeste,1.999,⚠️
+SP,35,29658,Mesópolis,1.988,⚠️
+SP,35,27256,Lourdes,1.968,⚠️
+SP,35,31001,Monções,1.954,⚠️
+MT,51,07883,Serra Nova Dourada,1.901,⚠️
+SP,35,49250,São João de Iracema,1.880,⚠️
+SP,35,03950,Aspásia,1.873,⚠️
+SP,35,29104,Marinópolis,1.870,⚠️
+MG,31,49408,Pedro Teixeira,1.854,⚠️
+MG,31,60504,Santo Antônio do Rio Abaixo,1.853,⚠️
+SP,35,55208,Turiúba,1.839,⚠️
+SP,35,56958,Vitória Brasil,1.826,⚠️
+SP,35,47205,Santana da Ponte Pensa,1.698,⚠️
+SP,35,47650,Santa Salete,1.686,⚠️
+SP,35,55307,Turmalina,1.672,⚠️
+SP,35,13850,Dirce Reis,1.641,⚠️
+SP,35,55703,União Paulista,1.628,⚠️
+MG,31,03108,Antônio Prado de Minas,1.558,⚠️
+MG,31,23403,Doresópolis,1.496,⚠️
+SP,35,15806,Flora Rica,1.492,⚠️
+SP,35,55901,Uru,1.419,⚠️
+MG,31,64803,São Sebastião do Rio Preto,1.248,⚠️
+MG,31,15607,Cedro do Abaeté,1.091,⚠️
+SP,35,32868,Nova Castilho,1.074,⚠️
+MG,31,66600,Serra da Saudade,854,⚠️

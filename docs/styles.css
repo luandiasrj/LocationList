@@ -1,0 +1,503 @@
+:root {
+  --primary-color: #0d6efd;
+  --secondary-color: #6c757d;
+  --success-color: #198754;
+  --info-color: #0dcaf0;
+  --warning-color: #ffc107;
+  --danger-color: #dc3545;
+  --light-color: #f8f9fa;
+  --dark-color: #212529;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: var(--dark-color);
+  line-height: 1.6;
+}
+
+/* Header Styles */
+header {
+  background-color: #f5f5f5;
+  background-image: linear-gradient(135deg, #f5f5f5 0%, #e0e0e0 100%);
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+/* Section Styles */
+section {
+  padding: 4rem 0;
+}
+
+section h2 {
+  margin-bottom: 2rem;
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+/* Card Styles */
+.card {
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin-bottom: 1.5rem;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+/* Search Section Styles */
+#busca {
+  background-color: var(--light-color);
+}
+
+#searchInput {
+  border-radius: 0.25rem 0 0 0.25rem;
+}
+
+#searchButton {
+  border-radius: 0 0.25rem 0.25rem 0;
+}
+
+/* Results Table Styles */
+.table {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.table th {
+  background-color: var(--primary-color);
+  color: white;
+  font-weight: 600;
+}
+
+.table tbody tr:hover {
+  background-color: rgba(13, 110, 253, 0.05);
+}
+
+.copy-btn {
+  transition: all 0.3s ease;
+}
+
+/* Instructions Section Styles */
+#instrucoes .card {
+  height: 100%;
+}
+
+#instrucoes img {
+  max-height: 200px;
+  object-fit: cover;
+}
+
+.step-image {
+  border: 1px solid #ddd;
+  border-radius: 0.25rem;
+}
+
+/* FAQ Section Styles */
+#faq {
+  background-color: var(--light-color);
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: rgba(13, 110, 253, 0.1);
+  color: var(--primary-color);
+}
+
+.accordion-button:focus {
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+}
+
+/* Footer Styles */
+footer {
+  background-color: var(--dark-color);
+  color: white;
+  padding: 2rem 0;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: var(--info-color);
+  text-decoration: underline;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  section {
+    padding: 2rem 0;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  .table-responsive {
+    border: none;
+  }
+}
+
+/* Animation for Copy Button */
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.05);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+.copy-btn:active {
+  animation: pulse 0.3s;
+}
+
+/* Custom Alert/Toast Styles */
+.toast-container {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1050;
+}
+
+.toast {
+  background-color: white;
+  color: var(--dark-color);
+  border-left: 4px solid var(--primary-color);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.toast-success {
+  border-left-color: var(--success-color);
+}
+
+.toast-error {
+  border-left-color: var(--danger-color);
+}
+
+/* Loading Indicator */
+.loading-spinner {
+  display: inline-block;
+  width: 1.5rem;
+  height: 1.5rem;
+  border: 3px solid rgba(0, 0, 0, 0.1);
+  border-radius: 50%;
+  border-top-color: var(--primary-color);
+  animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* No Results Message */
+#noResults {
+  padding: 2rem;
+  text-align: center;
+  border-radius: 0.5rem;
+}
+
+/* Highlight for Search Terms */
+.highlight {
+  background-color: rgba(255, 193, 7, 0.3);
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+/* City Code Highlight */
+.city-code {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  color: var(--primary-color);
+  background-color: rgba(13, 110, 253, 0.1);
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.25rem;
+}
+
+/* Estilos para os botões de ação na tabela */
+.city-code {
+  font-family: monospace;
+  font-weight: bold;
+}
+
+.copy-btn {
+  padding: 0.25rem 0.5rem;
+  transition: all 0.2s ease;
+}
+
+.copy-btn:hover {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+/* Estilos para os botões de mapa */
+@media (max-width: 768px) {
+  .mobile-only {
+    display: inline-block !important;
+  }
+
+  .desktop-only {
+    display: none !important;
+  }
+}
+
+@media (min-width: 769px) {
+  .mobile-only {
+    display: none !important;
+  }
+}
+
+/* Dark Mode Styles */
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+body.dark-mode header {
+  background-image: linear-gradient(135deg, #1f1f1f 0%, #121212 100%);
+  background-color: #1f1f1f;
+}
+
+body.dark-mode .navbar-light .navbar-brand,
+body.dark-mode .navbar-light .nav-link {
+  color: #e0e0e0;
+}
+
+body.dark-mode .navbar-light .nav-link:hover {
+  color: var(--primary-color);
+}
+
+body.dark-mode .navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+body.dark-mode .navbar-toggler-icon {
+  filter: invert(1);
+}
+
+/* Navbar action buttons (dark mode + language) */
+.navbar-action-btn {
+  background: none;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 0.375rem;
+  padding: 0.35rem 0.65rem;
+  cursor: pointer;
+  font-size: 1.1rem;
+  color: var(--dark-color);
+  transition: all 0.3s ease;
+}
+
+.navbar-action-btn:hover {
+  background-color: rgba(0, 0, 0, 0.08);
+}
+
+body.dark-mode .navbar-action-btn {
+  color: #e0e0e0;
+  border-color: rgba(255, 255, 255, 0.25);
+}
+
+body.dark-mode .navbar-action-btn:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Hero section */
+body.dark-mode .hero-section h1,
+body.dark-mode .hero-section .lead {
+  color: #e0e0e0;
+}
+
+body.dark-mode .btn-outline-secondary {
+  color: #e0e0e0;
+  border-color: #6c757d;
+}
+
+body.dark-mode .btn-outline-secondary:hover {
+  background-color: #6c757d;
+  color: #fff;
+}
+
+body.dark-mode .card {
+  background-color: #1e1e1e;
+  border-color: #333;
+}
+
+body.dark-mode .card-header.bg-primary {
+  background-color: #0b5ed7 !important;
+}
+
+body.dark-mode .card-text,
+body.dark-mode .card-body p,
+body.dark-mode .card-body li {
+  color: #ccc;
+}
+
+/* Form controls */
+body.dark-mode .form-control {
+  background-color: #2a2a2a;
+  border-color: #444;
+  color: #e0e0e0;
+}
+
+body.dark-mode .form-control::placeholder {
+  color: #888;
+}
+
+body.dark-mode .form-control:focus {
+  background-color: #2a2a2a;
+  border-color: var(--primary-color);
+  color: #e0e0e0;
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+}
+
+/* Table */
+body.dark-mode .table {
+  color: #e0e0e0;
+  --bs-table-bg: transparent;
+  --bs-table-striped-bg: rgba(255, 255, 255, 0.04);
+  --bs-table-hover-bg: rgba(13, 110, 253, 0.1);
+  --bs-table-striped-color: #e0e0e0;
+  --bs-table-hover-color: #e0e0e0;
+}
+
+body.dark-mode .table th {
+  background-color: #0b5ed7;
+  color: white;
+}
+
+body.dark-mode .table td {
+  color: #e0e0e0;
+  border-color: #333;
+}
+
+body.dark-mode .table-striped>tbody>tr:nth-of-type(odd)>* {
+  color: #e0e0e0;
+  --bs-table-bg-type: rgba(255, 255, 255, 0.04);
+}
+
+body.dark-mode .table-striped>tbody>tr:nth-of-type(even)>* {
+  color: #e0e0e0;
+  background-color: transparent;
+}
+
+body.dark-mode .table-hover>tbody>tr:hover>* {
+  color: #e0e0e0;
+  --bs-table-bg-state: rgba(13, 110, 253, 0.12);
+}
+
+/* Copy and action buttons */
+body.dark-mode .btn-outline-primary {
+  color: #6ea8fe;
+  border-color: #6ea8fe;
+}
+
+body.dark-mode .btn-outline-primary:hover {
+  background-color: var(--primary-color);
+  color: #fff;
+  border-color: var(--primary-color);
+}
+
+body.dark-mode .btn-outline-info {
+  color: #6edff6;
+  border-color: #6edff6;
+}
+
+body.dark-mode .btn-outline-info:hover {
+  background-color: var(--info-color);
+  color: #000;
+}
+
+/* City code badge */
+body.dark-mode .city-code {
+  background-color: rgba(13, 110, 253, 0.2);
+  color: #6ea8fe;
+}
+
+/* Sections with light bg */
+body.dark-mode #busca,
+body.dark-mode #faq {
+  background-color: #1a1a1a;
+}
+
+body.dark-mode section h2 {
+  color: #6ea8fe;
+}
+
+/* Accordion */
+body.dark-mode .accordion-button {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+}
+
+body.dark-mode .accordion-button::after {
+  filter: invert(1);
+}
+
+body.dark-mode .accordion-button:not(.collapsed) {
+  background-color: rgba(13, 110, 253, 0.2);
+  color: #e0e0e0;
+}
+
+body.dark-mode .accordion-item {
+  background-color: #1e1e1e;
+  border-color: #333;
+}
+
+body.dark-mode .accordion-body {
+  background-color: #1e1e1e;
+  color: #ccc;
+}
+
+/* Alerts */
+body.dark-mode .alert-warning {
+  background-color: rgba(255, 193, 7, 0.15);
+  border-color: rgba(255, 193, 7, 0.3);
+  color: #ffda6a;
+}
+
+/* Toasts */
+body.dark-mode .toast {
+  background-color: #2a2a2a;
+  color: #e0e0e0;
+}
+
+body.dark-mode .btn-close {
+  filter: invert(1);
+}
+
+/* Loading spinner */
+body.dark-mode .loading-spinner {
+  border-color: rgba(255, 255, 255, 0.1);
+  border-top-color: #6ea8fe;
+}
+
+/* Highlight */
+body.dark-mode .highlight {
+  background-color: rgba(255, 193, 7, 0.2);
+  color: #ffda6a;
+}
+
+/* Footer hr */
+body.dark-mode footer hr {
+  border-color: rgba(255, 255, 255, 0.15);
+}
